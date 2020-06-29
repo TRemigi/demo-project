@@ -1,8 +1,8 @@
-# l;jasdf ![Apache 2.0 Badge](https://img.shields.io/badge/License-Apache%202.0-brightgreen)
+# the dang nothing App ![Apache 2.0 Badge](https://img.shields.io/badge/License-Apache%202.0-brightgreen)
 
 ## Description
 
-;ljsdf
+l;kasdf
 
 
 ## Table of Contents
@@ -17,14 +17,13 @@
 
 ## Installation
 
-;lkjasdf
+lkjasdf
 
 
 ## Usage 
 
-;ljkasdfoi
-
-    Click [here](https://www.markdownguide.org/basic-syntax/#links) for a video demo
+;ljksadf
+Click [here](https://www.markdownguide.org/basic-syntax/#links) for a video demo
 
 
 ## License
@@ -36,7 +35,7 @@ Apache 2.0
 
 ## Contributing
 
-;lkajsdf
+l;ajsdf
 
 
 ## Testing
@@ -46,7 +45,7 @@ Apache 2.0
 
 ## Questions
 
-GitHub Profile: [;lkasdf](https://github.com/;lkasdf)
+GitHub Profile: [;lkjsdf](https://github.com/;lkjsdf)
 
-Reach me via email at <;lkjasdf>
+Reach me via email at <;lkajsdf>
 
