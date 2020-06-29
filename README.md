@@ -1,8 +1,8 @@
-# the Dang Nothing App ![GNU GPLv3 Badge](https://img.shields.io/badge/License-GNU%20GPLV3-brightgreen)
+# l;jasdf ![Apache 2.0 Badge](https://img.shields.io/badge/License-Apache%202.0-brightgreen)
 
 ## Description
 
-It works, mostly
+;ljsdf
 
 
 ## Table of Contents
@@ -17,36 +17,36 @@ It works, mostly
 
 ## Installation
 
-Do it.
+;lkjasdf
 
 
 ## Usage 
 
-Use it.
+;ljkasdfoi
 
-    Click [here](https://youtube.com) for a video demo
+    Click [here](https://www.markdownguide.org/basic-syntax/#links) for a video demo
 
 
 ## License
 
 This project is covered under the following license(s):
 
-GNU GPLv3
+Apache 2.0
 
 
 ## Contributing
 
-Please help.
+;lkajsdf
 
 
 ## Testing
 
-Use "npm test"
+;lakjsdf
 
 
 ## Questions
 
-GitHub Profile: [TRemigi](https://github.com/TRemigi)
+GitHub Profile: [;lkasdf](https://github.com/;lkasdf)
 
-Reach me via email at <tayremigi@gmail.com>
+Reach me via email at <;lkjasdf>
 
