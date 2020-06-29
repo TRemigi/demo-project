@@ -24,7 +24,7 @@
 
 ;ljkasdfoi
 
-    Click [here](https://www.markdownguide.org/basic-syntax/#links) for a video demo
+Click [here](https://www.markdownguide.org/basic-syntax/#links) for a video demo
 
 
 ## License
